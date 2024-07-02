@@ -7,6 +7,15 @@
 # Live Link
 ## https://bistro-bo-ss.web.app/
 
+
+### Features
+* User Can Order any Food as a user
+* Admin can Modify Any food description or availability
+* User can pay price of Foods
+* and they can see payments history
+* Admin can add another admins
+
+
 ### How to run this Project?
 
 Follow The Steps
@@ -25,14 +34,8 @@ npm install
 How to prepared this?
 Be patience!!!
 
-Follow this steps
-1. [Go to the Firebase](https://firebase.google.com)
-2. Then Click the top-right corner ( Go to Console ) Button
-3. Then click the (Add project) Button
-4. Give a name of your Project Like : Bistro-boss , after Press Continue
-5. Again Continue
-6. Scroll down and disable the Google Analytics and then continue
-7. and Take a nap
-8. After taking nap press continue
-![Screenshot from 2024-05-30 06-21-50](https://github.com/meheraz1100/M-64-bistro-boss-client/assets/124299889/5c58d7fb-0ae2-4258-816b-2336a68865a8)
-9. Click this icon
+## 4 Now run this project
+```
+npm run dev
+```
+
